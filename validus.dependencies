@@ -1,14 +1,17 @@
 [
  {
-   "repository": "android_device_lge_gproj-common",
-   "target_path": "device/lge/gproj-common"
+   "repository": "Team-Validus/device_lge_gproj-common",
+   "target_path": "device/lge/gproj-common",
+   "branch": "lp5.0"
  },
  {
-   "repository": "android_hardware_qcom_fm",
-   "target_path": "hardware/qcom/fm"
+   "repository": "CyanogenMod/android_hardware_qcom_fm",
+   "target_path": "hardware/qcom/fm",
+   "branch": "cm-12.0"
  },
  {
-   "repository": "lge-kernel-gproj",
-   "target_path": "kernel/lge/gproj"
- }
+   "repository": "CyanogenMod/lge-kernel-gproj",
+   "target_path": "kernel/lge/gproj",
+   "branch": "cm-12.0"
+ },
 ]
